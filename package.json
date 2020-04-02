@@ -1,0 +1,24 @@
+{
+  "name": "@tpp/simple-uuid",
+  "version": "1.0.0",
+  "description": "A fast, zero dependency uuid generator that works everywhere",
+  "main": "simple-uuid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theproductiveprogrammer/simple-uuid.git"
+  },
+  "keywords": [
+    "uuid",
+    "nodejs",
+    "browser"
+  ],
+  "author": "charles.lobo@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theproductiveprogrammer/simple-uuid/issues"
+  },
+  "homepage": "https://github.com/theproductiveprogrammer/simple-uuid#readme"
+}
